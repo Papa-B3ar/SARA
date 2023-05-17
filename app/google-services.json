@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "698436455139",
+    "firebase_url": "https://attendancerecordingapplication-default-rtdb.firebaseio.com",
+    "project_id": "attendancerecordingapplication",
+    "storage_bucket": "attendancerecordingapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698436455139:android:d30b8c4b68b763d35a13d6",
+        "android_client_info": {
+          "package_name": "com.example.attendancerecordingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698436455139-01kpaimbcesiu0d3fpg6l1n8duk4jdue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIhR_lLhAB0KxN4SRBQ9pGNSnRbySJM0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698436455139-01kpaimbcesiu0d3fpg6l1n8duk4jdue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698436455139:android:65e41e05a90d45f85a13d6",
+        "android_client_info": {
+          "package_name": "com.example.sara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698436455139-01kpaimbcesiu0d3fpg6l1n8duk4jdue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIhR_lLhAB0KxN4SRBQ9pGNSnRbySJM0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698436455139-01kpaimbcesiu0d3fpg6l1n8duk4jdue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

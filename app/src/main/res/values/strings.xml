@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">S.A.R.A</string>
+    <string name="tv_reset_password">Forgot Password?</string>
+
+    <string name="tvLecturerSignIn">Sign In</string>
+    <string name="tv_Register">Don\'t have an account?</string>
+    <string name="tv_registerPage">Sign Up</string>
+    <string name="tv_loginPage">Sign In</string>
+    <string name="tv_passwordresetpage">Reset Password</string>
+    <string name="tv_login">Already have an account?</string>
+    <string name="tv_welcome">WELCOME</string>
+
+    <string name="et_email_hint">Email</string>
+    <string name="et_password_hint">Password</string>
+    <string name="et_name_hint">Full name</string>
+    <string name="et_kca_email_hint">Email address</string>
+    <string name="et_phone_number">Phone number</string>
+    <string name="et_staff_number">Staff number</string>
+    <string name="et_confirm_password_hint">Confirm Password</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_reset">Reset</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
